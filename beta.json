@@ -1,0 +1,8 @@
+{
+ "version": "0.4.0-beta.1",
+ "url": "fw/miaumo-0.4.0-beta.1.bin",
+ "size": 2339632,
+ "sha256": "5e1cb0cb7b86cd2804c855db3033b43b1d1df3368ad7cd73238f427731e14ca6",
+ "sig": "MEUCIQDahtnBFpVjNTrIklQ4CfaGpOin5GV0jr+5MqJEJkTjdAIgRu0Zsy3/kYECv87xD/aHcLQelS0fHFguZcSmJChPHic=",
+ "notes": "Water reminder face, tap to dismiss, OTA updates"
+}
