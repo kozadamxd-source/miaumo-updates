@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.8",
- "url": "fw/miaumo-0.4.2-beta.8.bin",
- "size": 2427616,
- "sha256": "630e80be9b5ea58ad0863f62e6dcb86398eeb61ea85996d44bbb2edaf102f23d",
- "sig": "MEYCIQDoOyXMjcDbVqj4IMAXrOir0wsGpvvUr8V8FWO9Vw5+eQIhAK1BiLCj3vTXWpQDQcSvqRBvRlTtFpE4CReVBdgUsn10",
- "notes": "Pick me up, shake me: scared and dizzy faces"
+ "version": "0.4.2-beta.9",
+ "url": "fw/miaumo-0.4.2-beta.9.bin",
+ "size": 2427840,
+ "sha256": "888287c1732d5095720d1b8cdebb639aa6ebfb8a94a6bcf7f2e094708322133c",
+ "sig": "MEYCIQCyXH79/UcmpyDXdqXZ2MXlN5vR3bL7Fjpr3zfcYyDACQIhAOmt65l09+ZxplIsVvwaaElHAGomCqaKxVXSwkTjNsai",
+ "notes": "Scared only when lifted 6+ cm"
 }
