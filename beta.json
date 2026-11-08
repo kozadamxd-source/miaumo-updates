@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.10",
- "url": "fw/miaumo-0.4.2-beta.10.bin",
- "size": 2428272,
- "sha256": "963f268961d1b60cb9005f514ea1ad6a46d0768b7240a5a1174984d4b514bfcf",
- "sig": "MEUCIQDA/5Ws8mpnLNK1xQe0zJmOvcGIrDhwialhfy1roVue/wIgPvrp+lqAtDBAV2xRAYFX8IplLFyj7rkQSdafkGIifS8=",
- "notes": "Scared only when really lifted (vertical motion only)"
+ "version": "0.4.2-beta.11",
+ "url": "fw/miaumo-0.4.2-beta.11.bin",
+ "size": 2428560,
+ "sha256": "ad08a8b57958e7e784c7b31bde29a2c7025abd2aa95a01e145542ce2077bdf7f",
+ "sig": "MEQCIEkNzAtNFesPZMP5TwKlwHEC6duquQJg4N/7iunqJskOAiA6JmTHpgUPSmkdHG1/LLhatpZtzW2c291BbJrOgfLGqg==",
+ "notes": "Smooth spinning dizzy eyes"
 }
