@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.4",
- "url": "fw/miaumo-0.4.2-beta.4.bin",
+ "version": "0.4.2-beta.5",
+ "url": "fw/miaumo-0.4.2-beta.5.bin",
  "size": 2410752,
- "sha256": "dfe8b599795bda183fb8bfbfdc34ee95c7fc6f2e9b153fb7c4fe32fc8bc8681e",
- "sig": "MEQCICgtZ9a6LT9TqsTMuOymA2hiz89rAKBtpzYk9B7yNGs4AiBf7f5tJ6Me2swnkFs26DJU/p2x466IRwO+ZRDhjCrJmA==",
- "notes": "Christmas look on every screen"
+ "sha256": "bb88b690ee6d82ae14ce6ce765aea144bafc4d6ca9f996ed3100aac5b4d8a685",
+ "sig": "MEYCIQCuD9scLg62y2L0FAKvaZKRJBrS3HNUlGEYkMfQfsL2hAIhAMvq98PImimfs66y/xXL54zMQf+/xiFAYeU1UC5qYfcp",
+ "notes": "Christmas look on every screen, more reliable updates"
 }
