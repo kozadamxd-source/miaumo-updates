@@ -1,0 +1,15 @@
+{
+ "packs": [
+  {
+   "id": "xmas",
+   "name": "Christmas",
+   "from": "12-01",
+   "to": "12-26",
+   "minFw": "0.4.1-beta.1",
+   "paid": false,
+   "url": "packs/xmas-2accbb83.json",
+   "size": 45352,
+   "sha256": "2accbb830e63f3972cb58a247ae8d6073619f7d67597b07ff0fbcd454c239a8b"
+  }
+ ]
+}
