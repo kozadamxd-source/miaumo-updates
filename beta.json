@@ -1,8 +1,8 @@
 {
- "version": "0.4.1-beta.2",
- "url": "fw/miaumo-0.4.1-beta.2.bin",
- "size": 2396768,
- "sha256": "a080ee005f8e7e195bf0cca8a3c9f3e371ad595de22bfb3f646e42d95c61aa64",
- "sig": "MEYCIQCon+j7/ZJBRu1wuCKQkpKyrlMXVsjeGkXjxyh6Jf9zawIhANPtByjBWCkuQwoyNMmxQCYFqqK49v9WtNr2exfZ+1rs",
- "notes": "Paid themes: Christmas locked until bought, preview, MiauMo ID"
+ "version": "0.4.2-beta.1",
+ "url": "fw/miaumo-0.4.2-beta.1.bin",
+ "size": 2405216,
+ "sha256": "b98b43013eef16fbe698f49c6ed0dc7e7cc481531f744bafd73f29b47962386f",
+ "sig": "MEYCIQCIouo/qwkj85TFpkr0yq63vBSdbz2HyVCCJRKsH6E0LgIhAMbfpZW5k8coboWaSn6outU8QtAmn4L6LO/XTqPtz9Q3",
+ "notes": "Christmas emotions and smoother theme art"
 }
