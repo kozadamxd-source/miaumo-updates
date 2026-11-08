@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.2",
- "url": "fw/miaumo-0.4.2-beta.2.bin",
- "size": 2405536,
- "sha256": "4f7710a68d1c14f8be012461a3bb2169978e94df33d2314e9fa5fb9511d37672",
- "sig": "MEUCIGvwF95G3l1OZVpKaC6Q5VgdZKt+3dkX+VBAB97Qa35tAiEAi/EhC+0sAKGa/js7kmMt3zokeKdI9v8Lh5lLfLxxg+8=",
- "notes": "Preview shows every Christmas emotion"
+ "version": "0.4.2-beta.3",
+ "url": "fw/miaumo-0.4.2-beta.3.bin",
+ "size": 2405552,
+ "sha256": "e2c89883addb953529021a6dcdb5b09617ae80c432f2f03532345d7017bb9e23",
+ "sig": "MEUCIQDjABbKHWlzAdBJ3HVfVJRqxziF6JCYWyasfy8s6iGdIgIga9hsnSuGhdffyjzqEaC8QnWpFUNRL7mHiMnJ61ntVbY=",
+ "notes": "New Christmas hat, more reliable update checks"
 }
