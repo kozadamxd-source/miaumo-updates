@@ -6,10 +6,11 @@
    "from": "12-01",
    "to": "12-26",
    "minFw": "0.4.1-beta.1",
-   "paid": false,
-   "url": "packs/xmas-2accbb83.json",
-   "size": 45352,
-   "sha256": "2accbb830e63f3972cb58a247ae8d6073619f7d67597b07ff0fbcd454c239a8b"
+   "paid": true,
+   "shop": "",
+   "url": "packs/xmas-45336fb5.json",
+   "size": 45374,
+   "sha256": "45336fb551aa46646286db258c2f29c9c85fe5223b78e7beddf1b67976f0df2d"
   }
  ]
 }
