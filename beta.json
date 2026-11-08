@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.6",
- "url": "fw/miaumo-0.4.2-beta.6.bin",
- "size": 2410880,
- "sha256": "0264e2447d6ccaa1a9208dbff64856a744623a411a7f04995d2134620efea181",
- "sig": "MEYCIQCx79gvVwsCflv/FPpRaw1FXQKUV3UMGxH4pIoKtb6l4QIhAKejGt/kClnk5Q292SklkyCVUMwDFG6CXhRx+UZoDJIQ",
- "notes": "Preview shows the whole theme; schedule only with Auto"
+ "version": "0.4.2-beta.7",
+ "url": "fw/miaumo-0.4.2-beta.7.bin",
+ "size": 2414848,
+ "sha256": "411be090fe4a418fdd3acf46564f7b940b69f803661a09920386ac3c11bcb74e",
+ "sig": "MEYCIQCM3eFFdZcN4zdxaIPB1CXXN7HHcaAbLG0zh06HR9F19wIhAKoFZZF99vpjTaz22W0M5wurHdpfYcyJWEKFs53O5ppU",
+ "notes": "New water reminder face"
 }
