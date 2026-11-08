@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.7",
- "url": "fw/miaumo-0.4.2-beta.7.bin",
- "size": 2414848,
- "sha256": "411be090fe4a418fdd3acf46564f7b940b69f803661a09920386ac3c11bcb74e",
- "sig": "MEYCIQCM3eFFdZcN4zdxaIPB1CXXN7HHcaAbLG0zh06HR9F19wIhAKoFZZF99vpjTaz22W0M5wurHdpfYcyJWEKFs53O5ppU",
- "notes": "New water reminder face"
+ "version": "0.4.2-beta.8",
+ "url": "fw/miaumo-0.4.2-beta.8.bin",
+ "size": 2427616,
+ "sha256": "630e80be9b5ea58ad0863f62e6dcb86398eeb61ea85996d44bbb2edaf102f23d",
+ "sig": "MEYCIQDoOyXMjcDbVqj4IMAXrOir0wsGpvvUr8V8FWO9Vw5+eQIhAK1BiLCj3vTXWpQDQcSvqRBvRlTtFpE4CReVBdgUsn10",
+ "notes": "Pick me up, shake me: scared and dizzy faces"
 }
