@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.1",
- "url": "fw/miaumo-0.4.2-beta.1.bin",
- "size": 2405216,
- "sha256": "b98b43013eef16fbe698f49c6ed0dc7e7cc481531f744bafd73f29b47962386f",
- "sig": "MEYCIQCIouo/qwkj85TFpkr0yq63vBSdbz2HyVCCJRKsH6E0LgIhAMbfpZW5k8coboWaSn6outU8QtAmn4L6LO/XTqPtz9Q3",
- "notes": "Christmas emotions and smoother theme art"
+ "version": "0.4.2-beta.2",
+ "url": "fw/miaumo-0.4.2-beta.2.bin",
+ "size": 2405536,
+ "sha256": "4f7710a68d1c14f8be012461a3bb2169978e94df33d2314e9fa5fb9511d37672",
+ "sig": "MEUCIGvwF95G3l1OZVpKaC6Q5VgdZKt+3dkX+VBAB97Qa35tAiEAi/EhC+0sAKGa/js7kmMt3zokeKdI9v8Lh5lLfLxxg+8=",
+ "notes": "Preview shows every Christmas emotion"
 }
