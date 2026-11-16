@@ -1,8 +1,8 @@
 {
- "version": "0.4.2-beta.11",
- "url": "fw/miaumo-0.4.2-beta.11.bin",
- "size": 2428560,
- "sha256": "ad08a8b57958e7e784c7b31bde29a2c7025abd2aa95a01e145542ce2077bdf7f",
- "sig": "MEQCIEkNzAtNFesPZMP5TwKlwHEC6duquQJg4N/7iunqJskOAiA6JmTHpgUPSmkdHG1/LLhatpZtzW2c291BbJrOgfLGqg==",
- "notes": "Smooth spinning dizzy eyes"
+ "version": "0.4.3-beta.1",
+ "url": "fw/miaumo-0.4.3-beta.1.bin",
+ "size": 2430624,
+ "sha256": "df15541efa88f258af38726aa36fdcf4db51371f2c9751998869fcbe8f9ff245",
+ "sig": "MEYCIQDTFBrSyz06yzrMGXumhdnWAPyIJ1oOH6ww37Tq64dskQIhAPmLgmKgKdHVTSgxweNnScZ3dWZ6a9U12obKkxd/6GE5",
+ "notes": "Factory test commands"
 }
