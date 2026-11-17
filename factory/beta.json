@@ -1,7 +1,7 @@
 {
- "version": "0.4.3-beta.1",
- "url": "factory/miaumo-0.4.3-beta.1-factory.bin",
- "size": 2496160,
- "sha256": "4340ada9c9293a2cde5b6314d7c559473312f451ddde92d03b1e79e8cb72e7e2",
- "sig": "MEUCIQCrOw2LWJt2VEP5nyLKaLUV/pMLQFWlvF1lVHLc8g9cBQIgGP5pqI1dvHvc21DEV4hFHuh1jUU9p0QJ8Xe4iIYT/jQ="
+ "version": "0.4.3-beta.2",
+ "url": "factory/miaumo-0.4.3-beta.2-factory.bin",
+ "size": 2560000,
+ "sha256": "c4ee2d024d39f1f4ad847a690bb2121caf300bb341742cc35fcad08a0b44e0e6",
+ "sig": "MEYCIQCG3jZk+7D7QAc6z6Lu++LTv0iXnWLVq9V2IG0FPUQ82AIhAPiQiNegZSjX7RngB7szSDPZsHXt9DNve88IWcd2H5re"
 }

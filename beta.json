@@ -1,8 +1,8 @@
 {
- "version": "0.4.3-beta.1",
- "url": "fw/miaumo-0.4.3-beta.1.bin",
- "size": 2430624,
- "sha256": "df15541efa88f258af38726aa36fdcf4db51371f2c9751998869fcbe8f9ff245",
- "sig": "MEYCIQDTFBrSyz06yzrMGXumhdnWAPyIJ1oOH6ww37Tq64dskQIhAPmLgmKgKdHVTSgxweNnScZ3dWZ6a9U12obKkxd/6GE5",
- "notes": "Factory test commands"
+ "version": "0.4.3-beta.2",
+ "url": "fw/miaumo-0.4.3-beta.2.bin",
+ "size": 2494464,
+ "sha256": "7d834635fae583a0420454e35ea123154be24112b1dd32ce8756601af34bc8e1",
+ "sig": "MEQCIHPmIlamLjZKBGVoBtc+xxrj9REMfLPaav62r5aVsnrXAiAj/FwSK5TiJHrpSasAXrsudVcAh49iDy9CNsEeP4FsKA==",
+ "notes": "Secure Boot and flash encryption, round mouth for scared and excited"
 }
