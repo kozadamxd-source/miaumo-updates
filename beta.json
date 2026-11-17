@@ -1,8 +1,8 @@
 {
- "version": "0.4.3",
- "url": "fw/miaumo-0.4.3.bin",
+ "version": "0.4.4",
+ "url": "fw/miaumo-0.4.4.bin",
  "size": 2494464,
- "sha256": "f45263c8c72b7563bae86b124f2b0d3bcc8ba18b452e74a4f53c9733b3fd4cfd",
- "sig": "MEUCIF0FoGwfBB1alyZKFBjDbzg2lOtTWX50NMoJ/cCQNtisAiEAvdhi2RdJzzcnaEil5w1xDO6QqZDQbOEXf7oAMPEvmaI=",
- "notes": "Secure Boot and flash encryption, round mouth for scared and excited, motion reactions"
+ "sha256": "8ffec5959be93910d9ea2613f4ec2404b7d0fe4ce82abea485dde496986cbf51",
+ "sig": "MEUCID1sqkqk+wuKvHrKNPU8RY+m46iweWEvgPtNWk9KfYPHAiEAo4Yak0LXA3HB3mj41t4rJtO5cUEyVRPOnQZxq3P2Xsg=",
+ "notes": "Petting: tap the face quickly, the cat gets happy and then falls in love"
 }
