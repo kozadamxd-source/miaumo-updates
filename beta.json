@@ -1,8 +1,8 @@
 {
- "version": "0.4.3-beta.2",
- "url": "fw/miaumo-0.4.3-beta.2.bin",
+ "version": "0.4.3",
+ "url": "fw/miaumo-0.4.3.bin",
  "size": 2494464,
- "sha256": "7d834635fae583a0420454e35ea123154be24112b1dd32ce8756601af34bc8e1",
- "sig": "MEQCIHPmIlamLjZKBGVoBtc+xxrj9REMfLPaav62r5aVsnrXAiAj/FwSK5TiJHrpSasAXrsudVcAh49iDy9CNsEeP4FsKA==",
- "notes": "Secure Boot and flash encryption, round mouth for scared and excited"
+ "sha256": "f45263c8c72b7563bae86b124f2b0d3bcc8ba18b452e74a4f53c9733b3fd4cfd",
+ "sig": "MEUCIF0FoGwfBB1alyZKFBjDbzg2lOtTWX50NMoJ/cCQNtisAiEAvdhi2RdJzzcnaEil5w1xDO6QqZDQbOEXf7oAMPEvmaI=",
+ "notes": "Secure Boot and flash encryption, round mouth for scared and excited, motion reactions"
 }
